@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_bEM6EFpjEeyPqsu6B5LXjQ" selectedViews="_bVb0AFpjEeyPqsu6B5LXjQ" version="8.1.1">
+  <models xmi:type="ecore:EPackage" href="airline.ecore#/"/>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_bVb0AFpjEeyPqsu6B5LXjQ" initialized="true">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_bphNoFpjEeyPqsu6B5LXjQ" name="airline class diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_brTWUFpjEeyPqsu6B5LXjQ" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_brT9YFpjEeyPqsu6B5LXjQ" type="Sirius" element="_bphNoFpjEeyPqsu6B5LXjQ" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_bsgQMFpjEeyPqsu6B5LXjQ" type="2001" element="_bph0sFpjEeyPqsu6B5LXjQ">
+            <children xmi:type="notation:Node" xmi:id="_bu3AoFpjEeyPqsu6B5LXjQ" type="5002">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_bu3AoVpjEeyPqsu6B5LXjQ" y="5"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_cMf-4FpjEeyPqsu6B5LXjQ" type="3005" element="_bph0sVpjEeyPqsu6B5LXjQ">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_cMf-4VpjEeyPqsu6B5LXjQ" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cMf-4lpjEeyPqsu6B5LXjQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_bsgQMVpjEeyPqsu6B5LXjQ" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bsgQMlpjEeyPqsu6B5LXjQ" width="672" height="67"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_brT9YVpjEeyPqsu6B5LXjQ"/>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_bph0sFpjEeyPqsu6B5LXjQ" width="-1" height="-1">
+        <target xmi:type="ecore:EPackage" href="airline.ecore#/"/>
+        <semanticElements xmi:type="ecore:EPackage" href="airline.ecore#/"/>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_bph0sVpjEeyPqsu6B5LXjQ" showIcon="false" labelPosition="node" workspacePath="/org.eclipse.emf.ecoretools.design/icons/full/back/empty.svg">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_bph0slpjEeyPqsu6B5LXjQ"/>
+          <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']/@style"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_bph0s1pjEeyPqsu6B5LXjQ"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@nodeMappings[name='Empty%20Diagram']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_bph0tFpjEeyPqsu6B5LXjQ"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Package']"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Validation']"/>
+      <target xmi:type="ecore:EPackage" href="airline.ecore#/"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

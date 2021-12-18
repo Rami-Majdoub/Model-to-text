@@ -1,0 +1,20 @@
+!SESSION 2021-12-11 10:15:07.335 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_301
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product -data C:\Users\rami\Desktop\rami-majdoub-g1-c3 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-11 10:16:36.532
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rami'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 4 368 2021-12-11 10:26:01.751
+!MESSAGE Resource '/org.eclipse.acceleo.module.airline2/src/org/eclipse/acceleo/module/airline2/common/generate.mtl' does not exist.
+
+!ENTRY org.eclipse.core.resources 4 368 2021-12-11 10:56:28.721
+!MESSAGE Resource '/org.eclipse.acceleo.module.airline2/src/org/eclipse/acceleo/module/airline2/main/generate.mtl' does not exist.
